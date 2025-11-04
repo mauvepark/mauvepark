@@ -1,6 +1,6 @@
-## Hi there 👋
+## hello ✮ ⋆ ˚｡𖦹 ⋆｡°✩
 
-'''yaml
+```yaml
 name: noor ali
 located_in: calgary, alberta
 current_job: software engineering student
@@ -28,4 +28,4 @@ projects:
 currently_learning: ["C", "C++", "SQL", "Godot"]
 2025 Goals: ["make a game", "make a portfolio website"]
 hobbies: ["video gaming", "volleyball", "martial arts", "art/design", "reading"]
-'''
+```
